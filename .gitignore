@@ -1,0 +1,10 @@
+# Archivos basura de Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+

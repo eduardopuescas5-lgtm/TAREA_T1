@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAREA_T1", "TAREA_T1.csproj", "{0BEFA4C4-3B43-46AA-A1AF-AEAE72A7CF88}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TAREA_T1-PY", "..\TAREA_T1-PY\TAREA_T1-PY.pyproj", "{3F186AE1-B175-4400-A4C5-609BB9DC7933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BEFA4C4-3B43-46AA-A1AF-AEAE72A7CF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEFA4C4-3B43-46AA-A1AF-AEAE72A7CF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEFA4C4-3B43-46AA-A1AF-AEAE72A7CF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEFA4C4-3B43-46AA-A1AF-AEAE72A7CF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F186AE1-B175-4400-A4C5-609BB9DC7933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F186AE1-B175-4400-A4C5-609BB9DC7933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC9B0AD-7001-44C7-83EC-A32675F5F6BC}
+	EndGlobalSection
+EndGlobal
